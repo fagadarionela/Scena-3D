@@ -1,0 +1,554 @@
+# Blender MTL File: 'None'
+# Material Count: 50
+
+newmtl 10450_Rectangular_Grass_Patch_v1.005
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.090000 0.090000 0.090000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd D:\UTCN AC\CTI an 3\CTI sem 1\PG\Laborator\proiect\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\objects\grass\10450_Rectangular_Grass_Patch_v1_Diffuse.jpg
+map_Ka D:\\UTCN AC\\CTI an 3\\CTI sem 1\\PG\\Laborator\\proiect\\OpenGL_4_Application_VS2015\\OpenGL_4_Application_VS2015\\objects\\grass\\10450_Rectangular_Grass_Patch_v1_Diffuse.jpg
+
+newmtl 10450_Rectangular_Grass_Patch_v1.006
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.090000 0.090000 0.090000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd D:\UTCN AC\CTI an 3\CTI sem 1\PG\Laborator\proiect\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\objects\grass\10450_Rectangular_Grass_Patch_v1_Diffuse.jpg
+map_Ka D:\\UTCN AC\\CTI an 3\\CTI sem 1\\PG\\Laborator\\proiect\\OpenGL_4_Application_VS2015\\OpenGL_4_Application_VS2015\\objects\\grass\\10450_Rectangular_Grass_Patch_v1_Diffuse.jpg
+
+newmtl lambert3SG
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\UTCN AC\CTI an 3\CTI sem 1\PG\Laborator\proiect\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\objects\road\RoadSectionStraight.jpg
+
+newmtl lambert3SG.001
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\UTCN AC\CTI an 3\CTI sem 1\PG\Laborator\proiect\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\objects\road\RoadSectionStraight.jpg
+
+newmtl lambert3SG.002
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\UTCN AC\CTI an 3\CTI sem 1\PG\Laborator\proiect\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\objects\road\RoadSectionStraight.jpg
+
+newmtl lambert3SG.003
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\UTCN AC\CTI an 3\CTI sem 1\PG\Laborator\proiect\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\objects\road\RoadSectionStraight.jpg
+
+newmtl lambert3SG.004
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\UTCN AC\CTI an 3\CTI sem 1\PG\Laborator\proiect\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\objects\road\RoadSectionStraight.jpg
+
+newmtl lambert3SG.005
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\UTCN AC\CTI an 3\CTI sem 1\PG\Laborator\proiect\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\objects\road\RoadSectionStraight.jpg
+
+newmtl lambert3SG.006
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\UTCN AC\CTI an 3\CTI sem 1\PG\Laborator\proiect\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\objects\road\RoadSectionStraight.jpg
+
+newmtl lambert3SG.007
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\UTCN AC\CTI an 3\CTI sem 1\PG\Laborator\proiect\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\objects\road\RoadSectionStraight.jpg
+
+newmtl lambert3SG.008
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\UTCN AC\CTI an 3\CTI sem 1\PG\Laborator\proiect\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\objects\road\RoadSectionStraight.jpg
+
+newmtl lambert3SG.009
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\UTCN AC\CTI an 3\CTI sem 1\PG\Laborator\proiect\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\objects\road\RoadSectionStraight.jpg
+
+newmtl lambert3SG.010
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\UTCN AC\CTI an 3\CTI sem 1\PG\Laborator\proiect\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\objects\road\RoadSectionStraight.jpg
+
+newmtl lambert3SG.011
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\UTCN AC\CTI an 3\CTI sem 1\PG\Laborator\proiect\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\objects\road\RoadSectionStraight.jpg
+
+newmtl lambert3SG.012
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\UTCN AC\CTI an 3\CTI sem 1\PG\Laborator\proiect\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\objects\road\RoadSectionStraight.jpg
+
+newmtl lambert3SG.013
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\UTCN AC\CTI an 3\CTI sem 1\PG\Laborator\proiect\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\objects\road\RoadSectionStraight.jpg
+
+newmtl lambert3SG.014
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\UTCN AC\CTI an 3\CTI sem 1\PG\Laborator\proiect\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\objects\road\RoadSectionStraight.jpg
+
+newmtl lambert3SG.015
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\UTCN AC\CTI an 3\CTI sem 1\PG\Laborator\proiect\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\objects\road\RoadSectionStraight.jpg
+
+newmtl lambert3SG.016
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\UTCN AC\CTI an 3\CTI sem 1\PG\Laborator\proiect\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\objects\road\RoadSectionStraight.jpg
+
+newmtl lambert3SG.017
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\UTCN AC\CTI an 3\CTI sem 1\PG\Laborator\proiect\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\objects\road\RoadSectionStraight.jpg
+
+newmtl lambert3SG.018
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\UTCN AC\CTI an 3\CTI sem 1\PG\Laborator\proiect\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\objects\road\RoadSectionStraight.jpg
+
+newmtl lambert3SG.019
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\UTCN AC\CTI an 3\CTI sem 1\PG\Laborator\proiect\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\objects\road\RoadSectionStraight.jpg
+
+newmtl lambert3SG.020
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\UTCN AC\CTI an 3\CTI sem 1\PG\Laborator\proiect\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\objects\road\RoadSectionStraight.jpg
+
+newmtl lambert3SG.021
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\UTCN AC\CTI an 3\CTI sem 1\PG\Laborator\proiect\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\objects\road\RoadSectionStraight.jpg
+
+newmtl lambert3SG.022
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\UTCN AC\CTI an 3\CTI sem 1\PG\Laborator\proiect\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\objects\road\RoadSectionStraight.jpg
+
+newmtl lambert3SG.023
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\UTCN AC\CTI an 3\CTI sem 1\PG\Laborator\proiect\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\objects\road\RoadSectionStraight.jpg
+
+newmtl lambert3SG.024
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\UTCN AC\CTI an 3\CTI sem 1\PG\Laborator\proiect\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\objects\road\RoadSectionStraight.jpg
+
+newmtl lambert3SG.025
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\UTCN AC\CTI an 3\CTI sem 1\PG\Laborator\proiect\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\objects\road\RoadSectionStraight.jpg
+
+newmtl lambert3SG.026
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\UTCN AC\CTI an 3\CTI sem 1\PG\Laborator\proiect\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\objects\road\RoadSectionStraight.jpg
+
+newmtl lambert3SG.027
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\UTCN AC\CTI an 3\CTI sem 1\PG\Laborator\proiect\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\objects\road\RoadSectionStraight.jpg
+
+newmtl lambert3SG.028
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\UTCN AC\CTI an 3\CTI sem 1\PG\Laborator\proiect\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\objects\road\RoadSectionStraight.jpg
+
+newmtl lambert3SG.029
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\UTCN AC\CTI an 3\CTI sem 1\PG\Laborator\proiect\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\objects\road\RoadSectionStraight.jpg
+
+newmtl lambert3SG.030
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\UTCN AC\CTI an 3\CTI sem 1\PG\Laborator\proiect\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\objects\road\RoadSectionStraight.jpg
+
+newmtl lambert3SG.031
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\UTCN AC\CTI an 3\CTI sem 1\PG\Laborator\proiect\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\objects\road\RoadSectionStraight.jpg
+
+newmtl lambert3SG.032
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\UTCN AC\CTI an 3\CTI sem 1\PG\Laborator\proiect\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\objects\road\RoadSectionStraight.jpg
+
+newmtl lambert3SG.033
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\UTCN AC\CTI an 3\CTI sem 1\PG\Laborator\proiect\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\objects\road\RoadSectionStraight.jpg
+
+newmtl lambert3SG.034
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\UTCN AC\CTI an 3\CTI sem 1\PG\Laborator\proiect\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\objects\road\RoadSectionStraight.jpg
+
+newmtl lambert3SG.035
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\UTCN AC\CTI an 3\CTI sem 1\PG\Laborator\proiect\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\objects\road\RoadSectionStraight.jpg
+
+newmtl lambert3SG.036
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\UTCN AC\CTI an 3\CTI sem 1\PG\Laborator\proiect\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\objects\road\RoadSectionStraight.jpg
+
+newmtl lambert3SG.037
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\UTCN AC\CTI an 3\CTI sem 1\PG\Laborator\proiect\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\objects\road\RoadSectionStraight.jpg
+
+newmtl lambert3SG.038
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\UTCN AC\CTI an 3\CTI sem 1\PG\Laborator\proiect\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\objects\road\RoadSectionStraight.jpg
+
+newmtl lambert3SG.039
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\UTCN AC\CTI an 3\CTI sem 1\PG\Laborator\proiect\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\objects\road\RoadSectionStraight.jpg
+
+newmtl lambert3SG.040
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\UTCN AC\CTI an 3\CTI sem 1\PG\Laborator\proiect\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\objects\road\RoadSectionStraight.jpg
+
+newmtl lambert3SG.041
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\UTCN AC\CTI an 3\CTI sem 1\PG\Laborator\proiect\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\objects\road\RoadSectionStraight.jpg
+
+newmtl lambert3SG.042
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\UTCN AC\CTI an 3\CTI sem 1\PG\Laborator\proiect\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\objects\road\RoadSectionStraight.jpg
+
+newmtl lambert3SG.043
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\UTCN AC\CTI an 3\CTI sem 1\PG\Laborator\proiect\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\objects\road\RoadSectionStraight.jpg
+
+newmtl lambert3SG.044
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\UTCN AC\CTI an 3\CTI sem 1\PG\Laborator\proiect\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\objects\road\RoadSectionStraight.jpg
+
+newmtl lambert3SG.045
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\UTCN AC\CTI an 3\CTI sem 1\PG\Laborator\proiect\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\objects\road\RoadSectionStraight.jpg
+
+newmtl lambert3SG.047
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\UTCN AC\CTI an 3\CTI sem 1\PG\Laborator\proiect\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\objects\road\RoadSectionStraight.jpg
+
+newmtl lambert3SG.048
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\UTCN AC\CTI an 3\CTI sem 1\PG\Laborator\proiect\OpenGL_4_Application_VS2015\OpenGL_4_Application_VS2015\objects\road\RoadSectionStraight.jpg
